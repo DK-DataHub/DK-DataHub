@@ -1,60 +1,80 @@
-# 👋 Hi, I'm Deepak
+<h1 align="center">🌟 Deepak | Aspiring Data Analyst 🌟</h1>
 
-## 📊 Aspiring Data Analyst | Python Enthusiast | Excel Explorer
-
-I'm currently diving deep into the world of **data analysis**, building skills in Python, Excel, and Power BI. Every commit I make reflects my learning journey and dedication to mastering data tools.
-
----
-
-## 🚀 GitHub Stats
-
-![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DK-DataHub&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DK-DataHub&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
-## 📈 Contribution Graph
+## 🚀 About Me
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DK-DataHub&theme=react-dark)
+🎓 Currently studying **Data Analysis**  
+🧠 Passionate about turning data into insights  
+📍 Based in Tamil Nadu, India  
+📬 Reach me at: `rameshdeepak179@gmail.com`  
+🌐 Portfolio: "To be updated".
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DK-DataHub&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DK-DataHub&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DK-DataHub&theme=dracula" />
+</p>
 
 ---
 
 ## 🧰 Tools & Technologies
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📚 Learning Progress
-
-- ✅ Completed: Python basics, data types, loops, functions
-- ✅ Completed: Excel formulas, pivot tables
-- 🔄 In Progress: Power BI dashboards, DAX expressions
-- 🔜 Upcoming: Pandas, NumPy, Matplotlib, SQL
+| Language | Usage | Projects |
+|----------|-------|----------|
+| 🐍 Python | 19 commits | `python-data-snippets` |
+| 📊 Excel | 2 commits | `excel-practice` |
+| 📈 Power BI | 1 commit | `powerbi-visuals` |
 
 ---
 
 ## 📂 Featured Repositories
 
-- [`python-data-snippets`](https://github.com/DK-DataHub/Python-Codes) – Handy Python scripts for data tasks
-- [`excel-practice`](https://github.com/DK-DataHub/Excel-Worksheets) – Excel files for formula and dashboard practice
-- [`powerbi-visuals`](https://github.com/DK-DataHub/Power-BI-visuals) – Power BI reports and visual experiments
+- [`python-data-snippets`](https://github.com/DK-DataHub/python-data-snippets) – Handy Python scripts for data tasks  
+- [`excel-practice`](https://github.com/DK-DataHub/excel-practice) – Excel files for formula and dashboard practice  
+- [`powerbi-visuals`](https://github.com/DK-DataHub/powerbi-visuals) – Power BI reports and visual experiments  
 
 ---
 
-## 📬 Let's Connect
+## 📚 Learning Journey
 
-- 🌐 Portfolio: "To be Updated"
-- 📧 Email: rameshdeepak179@gmail.com
-- 📍 Location: Tamil Nadu, India
+✅ Python basics, loops, functions  
+✅ Excel formulas, pivot tables  
+🔄 Power BI dashboards, DAX  
+🔜 Pandas, NumPy, Matplotlib, SQL
 
 ---
 
-_This README updates as I grow. Every new file, every new commit, is a step forward in my data journey._
+## 💬 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:yourname@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://yourwebsite.in"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+</p>
+
+---
+
+> 🧭 _Every commit is a step forward in my data journey. This README evolves with me._
+
+
 
 
