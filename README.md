@@ -49,8 +49,8 @@ I'm currently diving deep into the world of **data analysis**, building skills i
 
 ## 📬 Let's Connect
 
-- 🌐 Portfolio: [yourwebsite.in](https://yourwebsite.in)
-- 📧 Email: yourname@example.com
+- 🌐 Portfolio: #To be Updated#
+- 📧 Email: rameshdeepak179@gmail.com
 - 📍 Location: Tamil Nadu, India
 
 ---
