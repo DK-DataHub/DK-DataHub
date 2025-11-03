@@ -41,9 +41,9 @@ I'm currently diving deep into the world of **data analysis**, building skills i
 
 ## 📂 Featured Repositories
 
-- [`python-data-snippets`](https://github.com/DK-DataHub/python-data-snippets) – Handy Python scripts for data tasks
-- [`excel-practice`](https://github.com/DK-DataHub/excel-practice) – Excel files for formula and dashboard practice
-- [`powerbi-visuals`](https://github.com/DK-DataHub/powerbi-visuals) – Power BI reports and visual experiments
+- [`python-data-snippets`](https://github.com/DK-DataHub/Python-Codes) – Handy Python scripts for data tasks
+- [`excel-practice`](https://github.com/DK-DataHub/Python-Codes) – Excel files for formula and dashboard practice
+- [`powerbi-visuals`](https://github.com/DK-DataHub/Python-Codes) – Power BI reports and visual experiments
 
 ---
 
