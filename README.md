@@ -37,12 +37,10 @@
 
 ---
 
-## 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DK-DataHub&theme=github-compact"/>
-</p>
-
+<!-- GitHub Streak Stats -->
+  <div style="text-align: center; margin: 2rem 0;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DK-DataHub&theme=radical" alt="GitHub Streak Stats" style="max-width: 100%; border-radius: 8px;">
+  </div>
 ---
 
 ## 🧰 Tools & Technologies
