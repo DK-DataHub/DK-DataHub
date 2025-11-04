@@ -22,17 +22,17 @@
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [`python-data-snippets`](https://github.com/DK-DataHub/python-data-snippets) | Handy Python scripts for data tasks | Python, Pandas |
-| [`excel-practice`](https://github.com/DK-DataHub/excel-practice) | Excel files for formulas and dashboards | Excel |
-| [`powerbi-visuals`](https://github.com/DK-DataHub/powerbi-visuals) | Power BI reports and visual experiments | Power BI |
+| [`python-data-snippets`](https://github.com/DK-DataHub/Python-Codes) | Handy Python scripts for data tasks | Python, Pandas |
+| [`excel-practice`](https://github.com/DK-DataHub/Excel-Worksheets) | Excel files for formulas and dashboards | Excel |
+| [`powerbi-visuals`](https://github.com/DK-DataHub/Power-BI-visuals) | Power BI reports and visual experiments | Power BI |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DK-DataHub&show_icons=true&theme=synthwave"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DK-DataHub&layout=compact&theme=synthwave"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DK-DataHub&show_icons=true&theme=monokai"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DK-DataHub&layout=compact&theme=algolia"/>
 </p>
 
 ---
