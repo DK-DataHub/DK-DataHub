@@ -31,8 +31,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DK-DataHub&show_icons=true&theme=radical)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DK-DataHub&layout=compact&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api?username=DK-DataHub&show_icons=true&theme=synthwave"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DK-DataHub&layout=compact&theme=synthwave"/>
 </p>
 
 ---
