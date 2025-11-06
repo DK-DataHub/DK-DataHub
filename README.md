@@ -38,9 +38,9 @@
 ---
 
 ## 🔥 GitHub Streak Stats
-  <div style="text-align: center; margin: 2rem 0;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DK-DataHub&theme=radical" alt="GitHub Streak Stats" style="max-width: 100%; border-radius: 8px;">
-  </div>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DK-DataHub&theme=radical)
+
 
 ## 🧰 Tools & Technologies
 
