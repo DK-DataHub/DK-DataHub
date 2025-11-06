@@ -39,7 +39,7 @@
 
 ## 🔥 GitHub Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DK-DataHub)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DK-DataHub&theme=dark)](https://git.io/streak-stats)
 
 
 
