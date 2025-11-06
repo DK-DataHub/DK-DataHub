@@ -39,7 +39,8 @@
 
 ## 🔥 GitHub Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DK-DataHub&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DK-DataHub)
+
 
 
 ## 🧰 Tools & Technologies
