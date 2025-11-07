@@ -31,8 +31,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DK-DataHub&show_icons=true&theme=monokai"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DK-DataHub&layout=compact&theme=algolia"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DK-DataHub&show_icons=true&theme=dark-smoky"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DK-DataHub&layout=compact&theme=hacker"/>
 </p>
 
 ---
