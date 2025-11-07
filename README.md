@@ -37,8 +37,7 @@
 
 ---
 
-## 🔥 GitHub Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DK-DataHub&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DK-DataHub&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=chartreuse-dark)](https://git.io/streak-stats)
 
 ## 🧰 Tools & Technologies
 
