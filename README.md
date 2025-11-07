@@ -18,9 +18,9 @@
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Concepts
 
-| Project | Description | Tools |
+| Concepts | Description | Tools |
 |--------|-------------|-------|
 | [`python-data-snippets`](https://github.com/DK-DataHub/Python-Codes) | Handy Python scripts for data tasks | Python, Pandas |
 | [`excel-practice`](https://github.com/DK-DataHub/Excel-Worksheets) | Excel files for formulas and dashboards | Excel |
