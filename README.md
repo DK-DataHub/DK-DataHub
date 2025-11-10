@@ -10,7 +10,7 @@
 ## 🧠 About Me
 
 🎓 **Aspiring Data Analyst** | 🐍 Python Explorer | 📊 Excel Strategist | 📈 Power BI Visualist  
-📍 Based in Tamil Nadu, India  
+📍 Based in Trichy, Tamil Nadu, India  
 🌐 Portfolio: [dk-datahub.github.io](https://dk-datahub.github.io)  
 📬 Email: rameshdeepak179@gmail.com  
 
