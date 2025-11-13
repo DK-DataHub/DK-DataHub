@@ -28,12 +28,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## 💻 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DK-DataHub&show_icons=true&theme=dark-smoky"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DK-DataHub&layout=compact&theme=hacker"/>
-</p>
+<div align="center">
+  <a href="https://github.com/DK-DataHub">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DK-DataHub&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DK-DataHub&layout=donut&theme=radical"/>
+  </a>
+</div>
 
 ---
 
