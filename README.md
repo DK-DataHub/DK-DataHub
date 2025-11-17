@@ -11,7 +11,7 @@
 
 🎓 **Aspiring Data Analyst** | 🐍 Python Explorer | 📊 Excel Strategist | 📈 Power BI Visualist  
 📍 Based in Trichy, Tamil Nadu, India  
-🌐 Portfolio: [dk-datahub.netlify.app](https://dk-datahub.netlify.app)  
+🌐 Portfolio: [dk-datahub.netlify.app](https://dk-datahub-portfolio.vercel.app)  
 📬 Email: rameshdeepak179@gmail.com  
 
 > _“Transforming raw data into refined decisions.”_
