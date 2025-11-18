@@ -41,12 +41,101 @@
 
 ## 🔥 GitHub Streak Stats 
 
-<a href="https://streak-stats.demolab.com">
-  <img
-    src="https://streak-stats.demolab.com?user=DK-DataHub&theme=chartreuse-dark"
-    alt="GitHub Streak"
-  />
-</a>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>DK-DataHub — GitHub Streak Status</title>
+  <style>
+    /* Reset link underline and layout artifacts */
+    a { text-decoration: none; }
+    img { display: block; border: 0; }
+
+    /* Page styling */
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, "Helvetica Neue", Arial, sans-serif;
+      background: #0f1316;
+      color: #e6f1ff;
+    }
+
+    .wrap {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 32px 16px;
+    }
+
+    .header {
+      text-align: center;
+      margin-bottom: 24px;
+    }
+
+    .card {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 12px;
+      border-radius: 12px;
+      background: #121a21;
+      box-shadow: 0 6px 20px rgba(0,0,0,0.35);
+    }
+
+    .card img {
+      max-width: 100%;
+      height: auto;
+    }
+
+    /* Optional: center footer link */
+    .footer {
+      text-align: center;
+      margin-top: 24px;
+      opacity: 0.8;
+      font-size: 14px;
+    }
+
+    /* Prevent tiny blue underscore artifacts by removing inline spacing */
+    .inline {
+      font-size: 0; line-height: 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header class="header">
+      <h1>GitHub streak — DK-DataHub</h1>
+      <p>Live contribution streak card with custom theme and colors.</p>
+    </header>
+
+    <!-- Streak card container -->
+    <section class="card inline">
+      <!-- Clickable image linking to the service (no underline) -->
+      <a href="https://streak-stats.demolab.com" aria-label="GitHub Streak Card Service">
+        <img
+          src="https://streak-stats.demolab.com?user=DK-DataHub&theme=chartreuse-dark&currStreakNum=2FD3EB&fire=FF69B4&sideLabels=FF0000&date_format=j/n/Y&t=1731959999"
+          alt="GitHub Streak for DK-DataHub"
+        />
+      </a>
+    </section>
+
+    <!-- Fallback image (uncomment if the main service is down) -->
+    <!--
+    <section class="card" style="margin-top:16px;">
+      <a href="https://github.com/DK-DataHub" aria-label="DK-DataHub GitHub Profile">
+        <img
+          src="https://img.shields.io/badge/GitHub%20Streak-Active-2FD3EB?style=for-the-badge&logo=github&logoColor=white"
+          alt="Fallback Streak Badge"
+        />
+      </a>
+    </section>
+    -->
+
+    <footer class="footer">
+      <a href="https://github.com/DK-DataHub" aria-label="DK-DataHub GitHub Profile">Visit my GitHub profile</a>
+    </footer>
+  </div>
+</body>
+</html>
 
 ---
 
