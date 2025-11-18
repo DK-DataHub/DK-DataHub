@@ -48,7 +48,7 @@
 
 <p align="center">
 
-  <!-- Python -->
+  
   <a href="https://www.python.org/" aria-label="Python">
     <img
       alt="Python"
@@ -56,7 +56,6 @@
     />
   </a>
 
-  <!-- Microsoft Excel -->
   <a href="https://www.microsoft.com/microsoft-365/excel" aria-label="Microsoft Excel">
     <img
       alt="Excel"
@@ -64,7 +63,6 @@
     />
   </a>
 
-  <!-- Power BI -->
   <a href="https://powerbi.microsoft.com/" aria-label="Power BI">
     <img
       alt="Power BI"
@@ -72,7 +70,6 @@
     />
   </a>
 
-  <!-- GitHub (links to your account) -->
   <a href="https://github.com/DK-DataHub" aria-label="GitHub DK-DataHub">
     <img
       alt="GitHub"
@@ -80,7 +77,6 @@
     />
   </a>
 
-  <!-- VS Code -->
   <a href="https://code.visualstudio.com/" aria-label="Visual Studio Code">
     <img
       alt="VS Code"
