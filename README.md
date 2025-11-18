@@ -41,21 +41,6 @@
 
 ## 🔥 GitHub Streak Stats 
 
-<!-- GitHub Streak Card (paste into your README HTML) -->
-<div style="text-align:center; font-size:0; line-height:0; margin:12px 0;">
-  <!-- Live streak card (uses full hex colors; change values if you want) -->
-  <a href="https://streak-stats.demolab.com?user=DK-DataHub" aria-label="GitHub streak (DK-DataHub)" style="text-decoration:none; display:inline-block;">
-    <img
-      src="https://streak-stats.demolab.com?user=DK-DataHub&theme=chartreuse-dark&currStreakNum=2FD3EB&fire=FF69B4&sideLabels=FF0000&date_format=j/n/Y&t=1699800000"
-      alt="GitHub streak for DK-DataHub"
-      style="display:block; border:0; max-width:100%; height:auto;"
-      width="900"
-    />
-  </a>
-</div>
-
-<!-- Fallback (uncomment to use if the above image fails) -->
-<!--
 <div style="text-align:center; margin:12px 0;">
   <a href="https://github.com/DK-DataHub" style="text-decoration:none; display:inline-block;">
     <img
@@ -65,13 +50,6 @@
     />
   </a>
 </div>
--->
-
-<!-- Notes:
-  - font-size:0 and line-height:0 on the container remove tiny underline artifacts between inline anchors.
-  - Use the `t=` query param as a cache-buster; update the number (e.g., with a timestamp) if you need to force refresh.
-  - Replace DK-DataHub with your username if different.
-  - width attribute is optional; remove or change to fit your README layout.
 -->
 
 ---
