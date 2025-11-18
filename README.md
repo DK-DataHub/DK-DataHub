@@ -30,10 +30,14 @@
 
 ## 💻 GitHub Activity
 
-<a href="https://github.com/DK-DataHub" style="text-decoration:none; display:inline-block;">
-  <img src="https://.../api?username=DK-DataHub" alt="stats" style="display:block; border:0;" />
-  <img src="https://.../top-langs?username=DK-DataHub" alt="langs" style="display:block; border:0;" />
-</a>
+<div align="center" style="font-size:0; line-height:0; margin:12px 0;">
+  <a href="https://github.com/DK-DataHub" style="text-decoration:none; display:inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api?username=DK-DataHub&show_icons=true" alt="stats" style="display:block; border:0;" />
+  </a><!--
+  --><a href="https://github.com/DK-DataHub" style="text-decoration:none; display:inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DK-DataHub&layout=donut" alt="langs" style="display:block; border:0;" />
+  </a>
+</div>
 
 ---
 
