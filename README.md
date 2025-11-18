@@ -40,11 +40,13 @@
 ---
 
 ## 🔥 GitHub Streak Stats 
-<!-- Minimal working image -->
-<img
-  src="https://streak-stats.demolab.com?user=DK-DataHub&theme=chartreuse-dark"
-  alt="GitHub Streak"
-/>
+
+<a href="https://streak-stats.demolab.com">
+  <img
+    src="https://streak-stats.demolab.com?user=DK-DataHub&theme=chartreuse-dark"
+    alt="GitHub Streak"
+  />
+</a>
 
 ---
 
