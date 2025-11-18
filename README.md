@@ -40,7 +40,11 @@
 ---
 
 ## 🔥 GitHub Streak Stats 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DK-DataHub&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=j/n/Y&theme=chartreuse-dark)](https://git.io/streak-stats)
+<!-- Minimal working image -->
+<img
+  src="https://streak-stats.demolab.com?user=DK-DataHub&theme=chartreuse-dark"
+  alt="GitHub Streak"
+/>
 
 ---
 
