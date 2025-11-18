@@ -46,42 +46,26 @@
 
 ## 🧰 Tools & Technologies
 
-<p align="center">
+<p align="center" style="display:flex; gap:8px; justify-content:center; flex-wrap:wrap">
 
-  
-  <a href="https://www.python.org/" aria-label="Python">
-    <img
-      alt="Python"
-      src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-    />
+  <a href="https://www.python.org/" aria-label="Python" style="text-decoration:none; display:inline-block">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="display:block"/>
   </a>
 
-  <a href="https://www.microsoft.com/microsoft-365/excel" aria-label="Microsoft Excel">
-    <img
-      alt="Excel"
-      src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"
-    />
+  <a href="https://www.microsoft.com/microsoft-365/excel" aria-label="Microsoft Excel" style="text-decoration:none; display:inline-block">
+    <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" style="display:block"/>
   </a>
 
-  <a href="https://powerbi.microsoft.com/" aria-label="Power BI">
-    <img
-      alt="Power BI"
-      src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"
-    />
+  <a href="https://powerbi.microsoft.com/" aria-label="Power BI" style="text-decoration:none; display:inline-block">
+    <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" style="display:block"/>
   </a>
 
-  <a href="https://github.com/DK-DataHub" aria-label="GitHub DK-DataHub">
-    <img
-      alt="GitHub"
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-    />
+  <a href="https://github.com/DK-DataHub" aria-label="GitHub DK-DataHub" style="text-decoration:none; display:inline-block">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="display:block"/>
   </a>
 
-  <a href="https://code.visualstudio.com/" aria-label="Visual Studio Code">
-    <img
-      alt="VS Code"
-      src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"
-    />
+  <a href="https://code.visualstudio.com/" aria-label="Visual Studio Code" style="text-decoration:none; display:inline-block">
+    <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" style="display:block"/>
   </a>
 
 </p>
