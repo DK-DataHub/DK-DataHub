@@ -30,10 +30,22 @@
 
 ## 💻 GitHub Activity
 
-<div align="center">
-  <a href="https://github.com/DK-DataHub">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DK-DataHub&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DK-DataHub&layout=donut&theme=radical"/>
+<div style="text-align:center; display:flex; gap:10px; justify-content:center; flex-wrap:wrap; align-items:center;">
+  <a href="https://github.com/DK-DataHub" style="text-decoration:none; display:inline-block;">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=DK-DataHub&show_icons=true&theme=swift&include_all_commits=true&hide_border=false&count_private=false"
+      alt="GitHub stats for DK-DataHub"
+      height="180"
+      style="display:block; border:0;"
+    />
+  </a>
+  <a href="https://github.com/DK-DataHub" style="text-decoration:none; display:inline-block;">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DK-DataHub&layout=donut&theme=swift&hide_border=false"
+      alt="Top languages for DK-DataHub"
+      height="180"
+      style="display:block; border:0;"
+    />
   </a>
 </div>
 
