@@ -30,12 +30,23 @@
 
 ## 💻 GitHub Activity
 
-<div align="center" style="font-size:0; line-height:0; margin:12px 0;">
-  <a href="https://github.com/DK-DataHub" style="text-decoration:none; display:inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api?username=DK-DataHub&show_icons=true" alt="stats" style="display:block; border:0;" />
-  </a><!--
-  --><a href="https://github.com/DK-DataHub" style="text-decoration:none; display:inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DK-DataHub&layout=donut" alt="langs" style="display:block; border:0;" />
+<div align="center" style="margin:12px 0; font-size:0; line-height:0;">
+  <a href="https://github.com/DK-DataHub" aria-label="DK-DataHub GitHub Stats" style="text-decoration:none; display:inline-block;">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=DK-DataHub&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
+      alt="DK-DataHub GitHub Stats"
+      style="display:block; border:0; max-width:100%; height:180px;"
+    />
+  </a>
+</div>
+
+<div align="center" style="margin:12px 0; font-size:0; line-height:0;">
+  <a href="https://github.com/DK-DataHub" aria-label="DK-DataHub Top Languages" style="text-decoration:none; display:inline-block;">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DK-DataHub&layout=donut&theme=radical"
+      alt="Top Languages for DK-DataHub"
+      style="display:block; border:0; max-width:100%; height:180px;"
+    />
   </a>
 </div>
 
