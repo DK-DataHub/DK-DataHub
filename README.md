@@ -30,22 +30,21 @@
 
 ## 💻 GitHub Activity
 
-<div align="center" style="margin:12px 0; font-size:0; line-height:0;">
-  <a href="https://github.com/DK-DataHub" aria-label="DK-DataHub GitHub Stats" style="text-decoration:none; display:inline-block;">
+<div align="center" style="margin:14px 0;">
+  <a href="https://github.com/DK-DataHub" style="text-decoration:none; display:inline-block;">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=DK-DataHub&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
+      src="https://github-readme-stats.vercel.app/api?username=DK-DataHub&show_icons=true&theme=dark&hide_border=false&count_private=true&include_all_commits=true&card_type=large&title_color=2FD3EB&icon_color=2FD3EB&text_color=C1F0E8&bg_color=0B2B2B"
       alt="DK-DataHub GitHub Stats"
-      style="display:block; border:0; max-width:100%; height:180px;"
+      style="display:block; border:0; max-width:100%; height:auto;"
     />
   </a>
 </div>
-
-<div align="center" style="margin:12px 0; font-size:0; line-height:0;">
-  <a href="https://github.com/DK-DataHub" aria-label="DK-DataHub Top Languages" style="text-decoration:none; display:inline-block;">
+<div align="center" style="margin:6px 0;">
+  <a href="https://github.com/DK-DataHub" style="text-decoration:none; display:inline-block;">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DK-DataHub&layout=donut&theme=radical"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DK-DataHub&layout=donut&theme=dark&hide_border=false&bg_color=0B2B2B&title_color=2FD3EB&text_color=C1F0E8"
       alt="Top Languages for DK-DataHub"
-      style="display:block; border:0; max-width:100%; height:180px;"
+      style="display:block; border:0; height:180px;"
     />
   </a>
 </div>
@@ -54,12 +53,12 @@
 
 ## 🔥 GitHub Streak Stats 
 
-<div style="text-align:center; margin:12px 0;">
-  <a href="https://github.com/DK-DataHub" style="text-decoration:none; display:inline-block;">
+<div align="center" style="margin:10px 0; font-size:0; line-height:0;">
+  <a href="https://streak-stats.demolab.com?user=DK-DataHub" style="text-decoration:none; display:inline-block;">
     <img
-      src="https://img.shields.io/badge/GitHub%20Streak-Active-2FD3EB?style=for-the-badge&logo=github&logoColor=white"
-      alt="Fallback GitHub Streak Badge"
-      style="display:block; border:0;"
+      src="https://streak-stats.demolab.com?user=DK-DataHub&theme=chartreuse-dark&currStreakNum=2FD3EB&fire=FF69B4&sideLabels=FF0000&date_format=j/n/Y&t=1699800000"
+      alt="GitHub Streak for DK-DataHub"
+      style="display:block; border:0; max-width:100%; height:auto;"
     />
   </a>
 </div>
