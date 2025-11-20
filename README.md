@@ -53,16 +53,7 @@
 
 ## 🔥 GitHub Streak Stats 
 
-<div align="center" style="margin:10px 0; font-size:0; line-height:0;">
-  <a href="https://streak-stats.demolab.com?user=DK-DataHub" style="text-decoration:none; display:inline-block;">
-    <img
-      src="https://streak-stats.demolab.com?user=DK-DataHub&theme=chartreuse-dark&currStreakNum=2FD3EB&fire=FF69B4&sideLabels=FF0000&date_format=j/n/Y&t=1699800000"
-      alt="GitHub Streak for DK-DataHub"
-      style="display:block; border:0; max-width:100%; height:auto;"
-    />
-  </a>
-</div>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DK-DataHub" alt="GitHub Streak" /></a>
 ---
 
 ## 🧰 Tools & Technologies
