@@ -71,10 +71,13 @@
 
 ## 📚 Learning Journey
 
-- ✅ Python basics, loops, functions  
-- ✅ Excel formulas, pivot tables  
-- 🔄 Power BI dashboards, DAX  
-- 🔜 Pandas, NumPy, Matplotlib, SQL
+- ✅ Python basics: loops, functions, data structures  
+- ✅ Excel mastery: formulas, pivot tables, data cleaning  
+- 🔄 Power BI: dashboards, DAX measures, interactive reports  
+- 🛢️ SQL: queries, joins, constraints, data integrity  
+- 🐼 Pandas: data manipulation and analysis  
+- 🔢 NumPy: numerical computations  
+- 📊 Matplotlib: data visualization  
 
 ---
 
