@@ -25,6 +25,7 @@
 | [`python-data-snippets`](https://github.com/DK-DataHub/Python-Codes) | Handy Python scripts for data tasks | Python, Pandas |
 | [`excel-practice`](https://github.com/DK-DataHub/Excel-Worksheets) | Excel files for formulas and dashboards | Excel |
 | [`powerbi-visuals`](https://github.com/DK-DataHub/Power-BI-visuals) | Power BI reports and visual experiments | Power BI |
+| [`sql-queries`](https://github.com/DK-DataHub/SQL-Queries) | SQL Queries for Datasets | SQL |
 
 ---
 
