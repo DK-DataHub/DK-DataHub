@@ -89,9 +89,7 @@ My greatest motivation is to **transform raw data into meaningful insights** tha
 </p>
 
 ---
-
-## 🐛 Fun GitHub Contribution Worm  
-
+ 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
