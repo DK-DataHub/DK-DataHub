@@ -22,7 +22,7 @@
 
 > _“Transforming raw data into refined decisions.”_
 
-My greatest motivation is to **transform raw data into meaningful insights** that drive strategic decisions. Using tools like **Power BI, SQL, Python, and Excel**, I create dynamic reports and interactive dashboards that make business processes more efficient.
+💡 “My greatest motivation is to transform raw data into meaningful insights that drive strategic decisions. With strong skills in Power BI, SQL, Python, and Excel, I build dynamic reports and interactive dashboards that support IT projects and empower data‑driven decision‑making. I am eager to apply these abilities in an IT company as a Data Analyst.”
 
 ---
 
