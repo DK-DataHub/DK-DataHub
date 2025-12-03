@@ -1,7 +1,7 @@
 <!-- === Animated Header with Sunset Glow === -->
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?size=28&duration=2500&pause=700&center=true&vCenter=true&width=750&color=FF6F00&font=Montserrat&weight=800&lines=Hi,+I'm+Deepak+R;🚀+Welcome+to+DK-DataHub+🚀;Aspiring+Data+Analyst+%26+Power+BI+Developer"
+    src="https://readme-typing-svg.demolab.com?size=28&duration=2500&pause=700&center=true&vCenter=true&width=750&color=FF6F00&font=Montserrat&weight=800&lines=HI!+I'm+Deepak+R;Aspiring+Data+Analyst+%26+Power+BI+Developer"
     alt="Typing Animation"
   />
 </h1>
