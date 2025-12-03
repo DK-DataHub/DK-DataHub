@@ -1,7 +1,7 @@
 <!-- === Animated Header with Sunset Glow === -->
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?size=28&duration=2500&pause=700&center=true&vCenter=true&width=750&color=FF6F00&font=Montserrat&weight=800&lines=HI!+I'M+DEEPAK+RAMESH;🚀+Welcome+to+DK-DataHub+🚀;Aspiring+Data+Analyst+%26+Power+BI+Developer"
+    src="https://readme-typing-svg.demolab.com?size=28&duration=2500&pause=700&center=true&vCenter=true&width=750&color=FF6F00&font=Montserrat&weight=800&lines=Hi,+I'm+Deepak+R;🚀+Welcome+to+DK-DataHub+🚀;Aspiring+Data+Analyst+%26+Power+BI+Developer"
     alt="Typing Animation"
   />
 </h1>
@@ -86,6 +86,14 @@ My greatest motivation is to **transform raw data into meaningful insights** tha
     width="98%"
     alt="Activity Graph"
   />
+</p>
+
+---
+
+## 🐛 Fun GitHub Contribution Worm  
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
