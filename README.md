@@ -90,8 +90,10 @@
 
 ---
  
+## 🐛 Fun GitHub Contribution Worm  
+
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/DK-DataHub/DK-DataHub/output/snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
