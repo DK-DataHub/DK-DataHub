@@ -1,75 +1,96 @@
-<h1 align="center">🚀 Welcome to DK-DataHub 🚀</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Driven-Insights-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Code%20with%20Clarity-✔️-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Powered%20by%20Curiosity-💡-orange?style=for-the-badge"/>
-</p>
+<!-- === Animated Header with Sunset Glow === -->
+<h1 align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?size=28&duration=2500&pause=700&center=true&vCenter=true&width=750&color=FF6F00&font=Montserrat&weight=800&lines=HI!+I'M+DEEPAK+RAMESH;🚀+Welcome+to+DK-DataHub+🚀;Aspiring+Data+Analyst+%26+Power+BI+Developer"
+    alt="Typing Animation"
+  />
+</h1>
+
+<!-- === Wave Divider (Sunset Glow) === -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:FF6F00,33:F06292,66:9C27B0,100:673AB7&section=header" width="100%" alt="decorative divider"/>
 
 ---
 
-## 🧠 About Me
+## 😎 About Me  
 
-🎓 **Aspiring Data Analyst** | 🐍 Python Explorer | 📊 Excel Strategist | 📈 Power BI Visualist | 🗄 SQL Query Crafter |
+🎓 **Aspiring Data Analyst & BI Developer**  
+🐍 Python Explorer | 📊 Excel Strategist | 📈 Power BI Visualist | 🗄 SQL Query Crafter  
 
-📍 Based in Trichy, Tamil Nadu, India  
+📍 Based in **Trichy, Tamil Nadu, India**  
 🌐 Portfolio: [dk-datahub.vercel.app](https://dk-datahub-portfolio.vercel.app)  
 📬 Email: rameshdeepak179@gmail.com  
 
 > _“Transforming raw data into refined decisions.”_
 
----
-
-## 📂 Featured Concepts
-
-| Concepts | Description | Tools |
-|--------|-------------|-------|
-| [`python-data-snippets`](https://github.com/DK-DataHub/Python-Codes) | Handy Python scripts for data tasks | Python, Pandas |
-| [`excel-practice`](https://github.com/DK-DataHub/Excel-Worksheets) | Excel files for formulas and dashboards | Excel |
-| [`powerbi-visuals`](https://github.com/DK-DataHub/Power-BI-visuals) | Power BI reports and visual experiments | Power BI |
-| [`sql-queries`](https://github.com/DK-DataHub/SQL-Queries) | SQL Queries for Datasets | SQL |
+My greatest motivation is to **transform raw data into meaningful insights** that drive strategic decisions. Using tools like **Power BI, SQL, Python, and Excel**, I create dynamic reports and interactive dashboards that make business processes more efficient.
 
 ---
 
-## 💻 GitHub Activity
+## 🧠 Core Skills & Toolset  
 
-<div align="center" style="margin:14px 0;">
-  <a href="https://github.com/DK-DataHub" style="text-decoration:none; display:inline-block;">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=DK-DataHub&show_icons=true&theme=default&hide_border=false&count_private=true&include_all_commits=true&card_type=large"
-      alt="DK-DataHub GitHub Stats"
-      style="display:block; border:0; max-width:100%; height:auto;"
-    />
-  </a>
-</div>
-<div align="center" style="margin:6px 0;">
-  <a href="https://github.com/DK-DataHub" style="text-decoration:none; display:inline-block;">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DK-DataHub&layout=donut&theme=default&hide_border=false"
-      alt="Top Languages for DK-DataHub"
-      style="display:block; border:0; height:180px;"
-    />
-  </a>
-</div>
+- **Data Analysis & Modeling:** Power BI, SQL, Python, Excel, Pandas, NumPy  
+- **Business Intelligence (BI):** Dashboard Design, Reporting, DAX  
+- **Visualization & Communication:** Data Storytelling, Matplotlib, Presentation  
 
----
-
-## 🔥 GitHub Streak Stats 
-
-<a href="https://github.com/DK-DataHub">
-  <img src="https://streak-stats.demolab.com?user=DK-DataHub" alt="GitHub Streak" />
-</a>
-
----
-
-## 🧰 Tools & Technologies
-
-<p align="center" style="font-size:0; line-height:0">
-  <a href="https://www.python.org/" aria-label="Python" style="text-decoration:none;"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="display:block"/></a><a href="https://www.microsoft.com/microsoft-365/excel" aria-label="Microsoft Excel" style="text-decoration:none;"><img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" style="display:block"/></a><a href="https://powerbi.microsoft.com/" aria-label="Power BI" style="text-decoration:none;"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" style="display:block"/></a><a href="https://github.com/DK-DataHub" aria-label="GitHub DK-DataHub" style="text-decoration:none;"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="display:block"/></a><a href="https://code.visualstudio.com/" aria-label="Visual Studio Code" style="text-decoration:none;"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" style="display:block"/></a>
+<p align="center">
+  <a href="https://powerbi.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" height="45" alt="Power BI"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftsqlserver.svg" height="45" alt="SQL Server"/></a>
+  <a href="https://www.microsoft.com/microsoft-365/excel"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" height="45" alt="Excel"/></a>
+  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/python.svg" height="45" alt="Python"/></a>
 </p>
 
 ---
 
-## 📚 Learning Journey
+## 📂 Featured Projects  
+
+| Project | Description | Tools |
+|---------|-------------|-------|
+| [`python-data-snippets`](https://github.com/DK-DataHub/Python-Codes) | Handy Python scripts for data tasks | Python, Pandas |
+| [`excel-practice`](https://github.com/DK-DataHub/Excel-Worksheets) | Excel files for formulas and dashboards | Excel |
+| [`powerbi-visuals`](https://github.com/DK-DataHub/Power-BI-visuals) | Power BI reports and visual experiments | Power BI |
+| [`sql-queries`](https://github.com/DK-DataHub/SQL-Queries) | SQL Queries for datasets | SQL |
+
+---
+
+## 🔎 GitHub Insights & Stats  
+
+<div style="display: flex; gap: 10px; flex-wrap: nowrap;" align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=DK-DataHub&show_icons=true&theme=default&icon_color=FF6F00&title_color=9C27B0&text_color=000000&bg_color=ffffff&hide_border=false&border_color=FF6F00&border_radius=10"
+    height="195" 
+    width="420"
+  />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DK-DataHub&layout=donut&theme=default&title_color=9C27B0&text_color=000000&bg_color=ffffff&hide_border=false&border_color=FF6F00&border_radius=10&include_all_commits=true&count_private=true" height="195" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=DK-DataHub&theme=default&hide_border=false&border_radius=10&border=FF6F00&ring=F06292&fire=9C27B0&currStreakLabel=000000" 
+    height="195" 
+    alt="GitHub Streak Stats" 
+  />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DK-DataHub&label=Profile%20views&color=FF6F00&style=flat" alt="Profile views"/>
+</p>
+
+---
+
+## ⚡ Contribution Highlights  
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=DK-DataHub&bg_color=ffffff&color=000000&line=FF6F00&point=9C27B0&area=true&area_color=F06292&hide_border=true&custom_title=%20Activity%20Timeline&height=365&title_size=20&label_size=16&first_day=1" 
+    width="98%"
+    alt="Activity Graph"
+  />
+</p>
+
+---
+
+## 📚 Learning Journey  
 
 - ✅ Python basics: loops, functions, data structures  
 - ✅ Excel mastery: formulas, pivot tables, data cleaning  
@@ -81,7 +102,7 @@
 
 ---
 
-## 💬 Connect With Me
+## 💬 Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/deepak-r-a85790250"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -92,3 +113,6 @@
 ---
 
 > 🧭 _Every commit is a step forward in my data journey. This README evolves with me._
+
+<!-- === Wave Divider (Bottom Sunset Glow) === -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:673AB7,33:9C27B0,66:F06292,100:FF6F00&section=footer" width="100%" alt="decorative divider"/>
