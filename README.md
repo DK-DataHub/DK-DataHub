@@ -54,9 +54,8 @@
 
 ## 🔎 GitHub Insights & Stats  
 
-| GitHub Stats | Top Languages |
-| --- | --- |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DK-DataHub&show_icons=true&theme=default&icon_color=FF6F00&title_color=9C27B0&text_color=000000&bg_color=ffffff&hide_border=false&border_color=FF6F00&border_radius=10) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DK-DataHub&layout=donut&theme=default&title_color=9C27B0&text_color=000000&bg_color=ffffff&hide_border=false&border_color=FF6F00&border_radius=10&include_all_commits=true&count_private=true) |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DK-DataHub&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DK-DataHub)
 
 <div align="center">
   <img 
