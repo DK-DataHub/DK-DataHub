@@ -54,15 +54,9 @@
 
 ## 🔎 GitHub Insights & Stats  
 
-<div style="display: flex; gap: 10px; flex-wrap: nowrap;" align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=DK-DataHub&show_icons=true&theme=default&icon_color=FF6F00&title_color=9C27B0&text_color=000000&bg_color=ffffff&hide_border=false&border_color=FF6F00&border_radius=10"
-    height="195" 
-    width="420"
-  />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DK-DataHub&layout=donut&theme=default&title_color=9C27B0&text_color=000000&bg_color=ffffff&hide_border=false&border_color=FF6F00&border_radius=10&include_all_commits=true&count_private=true" height="195" alt="Top Languages" />
-</div>
+| GitHub Stats | Top Languages |
+| --- | --- |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DK-DataHub&show_icons=true&theme=default&icon_color=FF6F00&title_color=9C27B0&text_color=000000&bg_color=ffffff&hide_border=false&border_color=FF6F00&border_radius=10) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DK-DataHub&layout=donut&theme=default&title_color=9C27B0&text_color=000000&bg_color=ffffff&hide_border=false&border_color=FF6F00&border_radius=10&include_all_commits=true&count_private=true) |
 
 <div align="center">
   <img 
