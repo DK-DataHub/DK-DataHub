@@ -110,7 +110,7 @@
 ## 💬 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/deepak-r-a85790250"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/deepak-r-trichy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:rameshdeepak179@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://dk-datahub-portfolio.vercel.app"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website Badge"/></a>
 </p>
