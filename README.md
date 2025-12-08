@@ -55,9 +55,10 @@
 ## 🔎 GitHub Insights & Stats  
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DK-DataHub/DK-DataHub/master/profile-summary-card-output/solarized/0-profile-details.svg" />
-  <img src="https://raw.githubusercontent.com/DK-DataHub/DK-DataHub/master/profile-summary-card-output/solarized/1-repos-per-language.svg" />
-  <img src="https://raw.githubusercontent.com/DK-DataHub/DK-DataHub/master/profile-summary-card-output/solarized/2-most-commit-language.svg" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=DK-DataHub&theme=dark&hide_border=false" 
+    alt="GitHub Streak Stats" 
+  />
 </div>
 
 <div align="center">
