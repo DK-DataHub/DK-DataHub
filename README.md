@@ -1,13 +1,13 @@
-<!-- === Animated Header with Sunset Glow === -->
+<!-- === Animated Header with Nord Dark === -->
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?size=28&duration=2500&pause=700&center=true&vCenter=true&width=750&color=FF6F00&font=Montserrat&weight=800&lines=HI!+I'm+Deepak+R;Aspiring+Data+Analyst+%26+Power+BI+Developer"
+    src="https://readme-typing-svg.demolab.com?size=28&duration=2500&pause=700&center=true&vCenter=true&width=750&color=88C0D0&font=Montserrat&weight=800&lines=HI!+I'm+Deepak+R;Aspiring+Data+Analyst+%26+Power+BI+Developer"
     alt="Typing Animation"
   />
 </h1>
 
-<!-- === Wave Divider (Sunset Glow) === -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:FF6F00,33:F06292,66:9C27B0,100:673AB7&section=header" width="100%" alt="decorative divider"/>
+<!-- === Wave Divider (Nord Dark) === -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:2E3440,33:3B4252,66:434C5E,100:4C566A&section=header" width="100%" alt="decorative divider"/>
 
 ---
 
