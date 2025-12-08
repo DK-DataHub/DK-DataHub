@@ -54,12 +54,12 @@
 
 ## 🔎 GitHub Insights & Stats  
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DK-DataHub&theme=sunsetglow)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DK-DataHub&theme=sunsetglow)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DK-DataHub&theme=vision_friendly_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DK-DataHub&theme=vision_friendly_dark)
 
 <div align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=DK-DataHub&theme=default&hide_border=false&border_radius=10&border=FF6F00&ring=F06292&fire=9C27B0&currStreakLabel=000000" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=DK-DataHub&theme=vision-friendly-dark&hide_border=false&border_radius=10&border=88C0D0&ring=FFD700&fire=FF6F00&currStreakLabel=FFFFFF" 
     height="195" 
     alt="GitHub Streak Stats" 
   />
@@ -71,7 +71,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=DK-DataHub&bg_color=ffffff&color=000000&line=FF6F00&point=9C27B0&area=true&area_color=F06292&hide_border=true&custom_title=%20Activity%20Timeline&height=365&title_size=20&label_size=16&first_day=1" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=DK-DataHub&bg_color=0D1117&color=FFFFFF&line=88C0D0&point=FFD700&area=true&area_color=2D3748&hide_border=true&custom_title=%20Activity%20Timeline&height=365&title_size=20&label_size=16&first_day=1" 
     width="98%"
     alt="Activity Graph"
   />
@@ -103,5 +103,5 @@
 
 > 🧭 _Every commit is a step forward in my data journey. This README evolves with me._
 
-<!-- === Wave Divider (Bottom Sunset Glow) === -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:673AB7,33:9C27B0,66:F06292,100:FF6F00&section=footer" width="100%" alt="decorative divider"/>
+<!-- === Wave Divider (Bottom Vision Friendly Dark) === -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0D1117,33:161B22,66:1F2937,100:2D3748&section=footer" width="100%" alt="decorative divider"/>
