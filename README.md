@@ -55,21 +55,9 @@
 ## 🔎 GitHub Insights & Stats  
 
 <div align="center">
-  <a href="https://github.com/DK-DataHub">
-    <img 
-      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DK-DataHub&show_icons=true&theme=radical&count_private=true&include_all_commits=true" 
-      alt="DK-DataHub GitHub Stats" 
-    />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/DK-DataHub">
-    <img 
-      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DK-DataHub&layout=compact&theme=radical" 
-      alt="Top Languages for DK-DataHub" 
-    />
-  </a>
+  <img src="https://raw.githubusercontent.com/DK-DataHub/DK-DataHub/master/profile-summary-card-output/solarized/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/DK-DataHub/DK-DataHub/master/profile-summary-card-output/solarized/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/DK-DataHub/DK-DataHub/master/profile-summary-card-output/solarized/2-most-commit-language.svg" />
 </div>
 
 <div align="center">
