@@ -53,13 +53,9 @@
 ---
 
 ## 🔎 GitHub Insights & Stats  
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DK-DataHub&theme=synthwave)
 
 <div align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=DK-DataHub&theme=dark&hide_border=false" 
-    alt="GitHub Streak Stats" 
-  />
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DK-DataHub&theme=synthwave)
 </div>
 
 <div align="center">
