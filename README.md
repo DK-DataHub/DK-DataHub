@@ -54,9 +54,7 @@
 
 ## 🔎 GitHub Insights & Stats  
 
-<div align="center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DK-DataHub&theme=synthwave)
-</div>
 
 <div align="center">
   <img 
