@@ -104,4 +104,4 @@
 > 🧭 _Every commit is a step forward in my data journey. This README evolves with me._
 
 <!-- === Wave Divider (Bottom Vision Friendly Dark) === -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0D1117,33:161B22,66:1F2937,100:2D3748&section=footer" width="100%" alt="decorative divider"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:00FF00,33:161B22,66:1F2937,100:2D3748&section=footer" width="100%" alt="decorative divider"/>
