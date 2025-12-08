@@ -1,7 +1,7 @@
 <!-- === Animated Header with Vision Friendly Dark === -->
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?size=28&duration=2500&pause=700&center=true&vCenter=true&width=750&color=FFD700&font=Montserrat&weight=800&lines=HI!+I'm+Deepak+R;Aspiring+Data+Analyst+%26+Power+BI+Developer"
+    src="https://readme-typing-svg.demolab.com?size=28&duration=2500&pause=700&center=true&vCenter=true&width=750&color=00FFFF&font=Montserrat&weight=800&lines=HI!+I'm+Deepak+R;Aspiring+Data+Analyst+%26+Power+BI+Developer"
     alt="Typing Animation"
   />
 </h1>
