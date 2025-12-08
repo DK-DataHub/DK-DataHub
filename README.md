@@ -56,7 +56,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DK-DataHub&theme=vision_friendly_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DK-DataHub&theme=vision_friendly_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DK-DataHub&theme=vision_friendly_dark)
 
 <div align="center">
   <img 
