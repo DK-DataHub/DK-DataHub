@@ -54,21 +54,20 @@
 
 ## 🔎 GitHub Insights & Stats  
 
-<div align="center" style="margin:14px 0;">
-  <a href="https://github.com/DK-DataHub" style="text-decoration:none; display:inline-block;">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=DK-DataHub&show_icons=true&theme=sunsetglow&hide_border=false&count_private=true&include_all_commits=true&card_type=large"
-      alt="DK-DataHub GitHub Stats"
-      style="display:block; border:0; max-width:100%; height:auto;"
+<div align="center">
+  <a href="https://github.com/DK-DataHub">
+    <img 
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DK-DataHub&show_icons=true&theme=radical&count_private=true&include_all_commits=true" 
+      alt="DK-DataHub GitHub Stats" 
     />
   </a>
 </div>
-<div align="center" style="margin:6px 0;">
-  <a href="https://github.com/DK-DataHub" style="text-decoration:none; display:inline-block;">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DK-DataHub&layout=donut&theme=sunsetglow&hide_border=false"
-      alt="Top Languages for DK-DataHub"
-      style="display:block; border:0; height:180px;"
+
+<div align="center">
+  <a href="https://github.com/DK-DataHub">
+    <img 
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DK-DataHub&layout=compact&theme=radical" 
+      alt="Top Languages for DK-DataHub" 
     />
   </a>
 </div>
