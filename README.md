@@ -14,8 +14,7 @@
 ## 😎 About Me  
 
 🎓 **Aspiring Data Analyst & BI Developer**  
-🐍 Python Explorer | 📊 Excel Strategist | 📈 Power BI Visualist | 🗄 SQL Query Crafter  
-
+🐍 Python Explorer | 📊 Excel Strategist | 📈 Power BI Visualist | 🗄 SQL Query Crafter     
 📍 Based in **Trichy, Tamil Nadu, India**  
 🌐 Portfolio: [dk-datahub.vercel.app](https://dk-datahub-portfolio.vercel.app) (🔜Under Progress..)  
 📬 Email: rameshdeepak179@gmail.com  
