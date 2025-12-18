@@ -82,7 +82,7 @@
 
 - ✅ Python basics: loops, functions, data structures  
 - ✅ Excel mastery: formulas, pivot tables, data cleaning  
-- 🔄 Power BI: dashboards, DAX measures, power query, interactive reports  
+- 🔄 Power BI: dashboards, DAX expressions, power query, interactive reports  
 - 🛢️ SQL: queries, joins, constraints, data integrity  
 - 🐼 Pandas: data manipulation and analysis  
 - 🔢 NumPy: numerical computations  
